@@ -12,5 +12,5 @@
 {for any issues or concerns contact me at xystusngigi@gmail.com}
 ## link to live sites
 [site about me][ https://xystus45.github.io/triangle-tracker.github.io/. ]
-liscence and copyright
+licence and copyright
 MIT
