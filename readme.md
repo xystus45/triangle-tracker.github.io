@@ -8,6 +8,7 @@
 * have an internet enabled device
 *make sure it has a browser preferably:chrome or safari
 *insert the uniform Uniform Resource Locator (URL)
+*insert the length of the triangles
 ## support and contact details
 {for any issues or concerns contact me at xystusngigi@gmail.com}
 ## link to live sites
