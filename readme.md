@@ -10,7 +10,7 @@
 *insert the uniform Uniform Resource Locator (URL)
 *insert the length of the triangles
 ## support and contact details
-{for any issues or concerns contact me at xystusngigi@gmail.com}
+{for any issues or concerns contact me at: xystusngigi@gmail.com}
 ## link to live sites
 [site about triangle-tracker][ https://xystus45.github.io/triangle-tracker.github.io/ ]
 licence and copyright
